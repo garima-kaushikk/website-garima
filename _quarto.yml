@@ -18,7 +18,7 @@ format:
     theme: sketchy
     fontcolor: "#B9770E"
     linkcolor: "#99A3A4"
-    backgroundcolor: "#2471A3"
+    backgroundcolor: "white"
     monobackgroundcolor: "#784212"
     
     
