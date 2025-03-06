@@ -1,24 +1,51 @@
 project: 
    type: website
+   render:
+    - "*.{qmd,R,py}"
+    - "!utils.py"
    preview: 
      browser: true
      
      
 website: 
-  title: "garima kaushik"
+  title: "Garima Kaushik"
+  site-url: "https://garima-kaushik.netlify.app/"
+  description: "Literature Student" 
+  twitter-card: true
   navbar:
     left:
-      - text: "home"
-        href: index.qmd
+      
+      - text: "Home"
+        href: index.qmd 
       - text: "About"
         href: about.qmd
         
+    tools:
+     - icon: twitter
+       href: https://twitter.com
+     - icon: github
+       href: https://github .com
+     - icon: linkedin
+       href: https://facebook .com
+     - icon: instagram
+       href: https://instagram .com
+  page-footer: 
+    left: "Copyright 2025, Garima" 
+    center: "Made with ❤️"
+    right: "Supported By [SARA](https://sara-edu.netlify.app/)"
+    
+     
+      
+     
 format:      
   html: 
-    theme: sketchy
-    fontcolor: "#B9770E"
+    theme: moon
+    css: styles.css
+    fontcolor: "black"
     linkcolor: "#99A3A4"
     backgroundcolor: "white"
     monobackgroundcolor: "#784212"
     
+    
+ 
     
