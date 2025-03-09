@@ -7,20 +7,20 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/sara-institute
+      href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ajay-kumar-koli/
+      href: https://www.linkedin.com
     - icon: twitter
       text: Twitter
-      href: https://www.linkedin.com/in/ajay-kumar-koli/
+      href: https://www.linkedin.com
 format: html
 ---
 
 
 Greetings everybody!
 
-My name is Garima, and i am from Sonipat. I am currently pursuing a degree in English literature. In my free time i enjoy reading books and keeping up with the latest news in English literature .I enjoy listening soft songs in my free time.
+My name is Garima. I am currently pursuing a degree in English literature. In my free time i enjoy reading books and keeping up with the latest news in English literature .I enjoy listening soft songs in my free time.
 I am a hardworking and dedicated individual and always try to give my best in everything i do .I am looking forward to a great academic journey and hope to make the most of the opportunities that come my way.
 
 I hope to make meaningful contributions in my field and help make a positive impact in the world.  

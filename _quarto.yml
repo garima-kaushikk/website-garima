@@ -39,7 +39,7 @@ website:
      
 format:      
   html: 
-    theme: moon
+    theme: default
     css: styles.css
     fontcolor: "black"
     linkcolor: "#99A3A4"
